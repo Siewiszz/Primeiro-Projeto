@@ -11,7 +11,7 @@
     <h1 class="título"><i>Projeto 1</i></h1>
     <header class="imagem">
         <hr>
-        <img class="imagem-1" src="anya capa 8wg205-1210x544.webp" alt="imagem1">
+        <img class="imagem-1" src="nutricionista.jpg" alt="imagem1">
         <li class="canto">Humanos</li>
         <hr>
     </header>
